@@ -6,36 +6,32 @@
 
 ---
 
-## Second Title...
+## Who am I?
 
-- Separate slides using '`---`' on a blank line
-- For vertical slides use '`--`'  
-- Write github flavored markdown
-- Click 'Present' (top right) when you're ready to talk
+James Millner - Java Developer
 
----
+(Not the footballer) 
 
-## Quick tips
-
-- There is also a speaker view, with notes - press '`s`'
-- Press '`?`' with focus on the presentation for shortcuts
-- <em>You can use html when necessary</em>
-- Share the 'Present' URL with anyone you like!
-
-Note:
-- Anything after `Note:` will only appear here
 
 ---
 
-## More markdown (fragments)
+##  Building Web Applications
 
-* static text
-* fragment <!-- .element: class="fragment" -->
-* fragment grow <!-- .element: class="fragment grow" -->
-* fragment highlight-red <!-- .element: class="fragment highlight-red" -->
-* press key down <!-- .element: class="fragment fade-up" -->
+That are: 
+
+---
+
+## Fast
 
 --
+
+## Scalable
+
+--
+
+## Flexible and easy to work with
+
+---
 
 ## More markdown (tables)
 
