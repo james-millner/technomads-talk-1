@@ -35,6 +35,44 @@ James Millner - Java Developer
 
 ---
 
+## What are Web Applications?
+
+At its simplest, its a collection of assets that are managed and distributed over the web via HTTP requests.
+
+It can be multilayered with view assets, business logic and data access.
+
+---
+
+## Previously
+
+This was as simple as:
+
+- Views = HTML & CSS
+- Business Logic - Inlined PHP / JavaScript
+- Data access - Inlined PHP / JavaScript
+
+All manually managed.
+
+---
+
+## An Introduction to Web MVC
+What is it?
+
+--
+
+## A Modern Archtectural Pattern
+The MVC pattern is the process of separating business logic, input logic and view logic in the form of Models, Views and Controllers.
+
+- Models are structures used by the application for data.
+- Views are responsible for rendering the model data.
+- Controllers are responsible for processing user requests and building an appropriate model and passes it to the view for rendering.
+
+--
+
+--
+
+---
+
 ## Tools
 
 <img src="/images/java-logo.png" width="125" height="125" style="  border: 10px solid rgba(255,255,255,.5)">
