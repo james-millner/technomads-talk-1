@@ -46,17 +46,16 @@ With abit of Go on the side.
 
 ## What are Web Applications?
 
-At its simplest, its a collection of assets that are managed and distributed over the web via HTTP requests.
+At its simplest, its a collection of assets that are managed and distributed over the web via HTTP requests via a web server.
 
-It can be multilayered with view assets, business logic and data access.
 
 ---
 
 ## A not so long time ago
 
-You used to have to configure your own web server. Manually deploying changes and administrating services.
+You used to have to configure your own web server!! Manually deploying changes and administrating services.
 
-And while this is still true today in some respects, its changed drastically in such a short time frame.
+And while this is still true today in some respects, the methods in which this is done have changed drastically.
 
 --
 ## Previously
@@ -125,7 +124,7 @@ OS name: "mac os x", version: "10.14.1", arch: "x86_64", family: "mac"
 
 --
 
-## Validate Tools - Spring
+## Spring
 
 https://start.spring.io/
 
