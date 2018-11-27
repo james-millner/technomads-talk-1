@@ -1,5 +1,3 @@
-# slides-template
-Template files for github.com/bketelsen/slides
 # Tech Nomads - Tech Talk - Build a web app in 60 seconds, or there abouts.
 
 # Introduction
