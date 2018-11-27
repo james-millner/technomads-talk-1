@@ -8,10 +8,19 @@
 
 ## Who am I?
 
-James Millner - Java Developer
+James Millner
 
 (Not the footballer) 
 
+--
+
+## Software Engineer
+
+--
+
+## Java Primarily
+
+With abit of Go on the side.
 
 ---
 
@@ -43,13 +52,19 @@ It can be multilayered with view assets, business logic and data access.
 
 ---
 
+## A not so long time ago
+
+You used to have to configure your own web server. Manually deploying changes and administrating services.
+
+And while this is still true today in some respects, its changed drastically in such a short time frame.
+
+--
 ## Previously
 
 This was as simple as:
 
 - Views = HTML & CSS
-- Business Logic - Inlined PHP / JavaScript
-- Data access - Inlined PHP / JavaScript
+- Business Logic - Done with typically PHP, ASP, JSP
 
 All manually managed.
 
@@ -95,6 +110,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.162-b12, mixed mode)
 
 ## Validate tools - Maven
 
+A build automation tool.
+
 mvn -v
 ```
 Jamess-MBP:~ jamesmillner$ mvn -v
@@ -108,32 +125,18 @@ OS name: "mac os x", version: "10.14.1", arch: "x86_64", family: "mac"
 
 --
 
+## Validate Tools - Spring
+
+https://start.spring.io/
+
+--
+
 ## Let's get started!
-
----
-
-## Local images
-
-![demoPicture](/images/demo.png)
-
-Copy images into slides/images/ & include with MD:
-
-```
-![demoPicture](/images/demo.png)
-
-```
-or HTML:
-
-```
-<img src="/images/demo.png">
-
-```
-
 
 ---
 
 ## Learn more
 
-- [RevealJS Demo/Manual](http://lab.hakim.se/reveal-js)
-- [RevealJS Project/README](https://github.com/hakimel/reveal.js)
-- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+- [Spring Framework](https://spring.io/)
+- [Follow me on Github @ james-millner](https://github.com/james-millner)
+- [Spring Boot Guide](https://spring.io/guides/gs/spring-boot/)
