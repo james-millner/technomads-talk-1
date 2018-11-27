@@ -12,4 +12,5 @@ A tech talk given by James Millner; 3rd of December, Liverpool Science Park.
 
 1. Install GoLang
 2. Install Slides: https://github.com/bketelsen/slides
+3. To run: `slides dev` and press present.
 
