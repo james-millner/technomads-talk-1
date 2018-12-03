@@ -14,6 +14,10 @@ James Millner
 
 --
 
+<img src="/images/james-milner.jpg" width="350" height="200" style="  border: 10px solid rgba(255,255,255,.5)">
+
+--
+
 ## Software Engineer
 
 --
@@ -32,7 +36,7 @@ With abit of Go on the side.
 
 --
 
-## Building applications, and focusing on the good stuff
+## Building applications fast using the latest frameworks and tooling.
 
 --
 
@@ -46,8 +50,21 @@ With abit of Go on the side.
 
 ## What are Web Applications?
 
-At its simplest, its a collection of assets that are managed and distributed over the web via HTTP requests via a web server.
+At its simplest: 
 
+A web app is a client-server system whereby the client is an interface within a web browser that communicates information over the web via a server.
+
+The server is collection of assets that are managed and distributed over the web via HTTP requests.
+
+--
+
+## Headless?
+
+Web applications can also be headless and can be interacted with via REST interfaces, Sockets.
+
+We all love API's!
+
+<img src="/images/rest-api.jpeg" width="350" height="200" style="  border: 10px solid rgba(255,255,255,.5)">
 
 ---
 
@@ -58,6 +75,7 @@ You used to have to configure your own web server!! Manually deploying changes a
 And while this is still true today in some respects, the methods in which this is done have changed drastically.
 
 --
+
 ## Previously
 
 This was as simple as:
@@ -67,7 +85,25 @@ This was as simple as:
 
 All manually managed.
 
----
+--
+
+## Plot Twist
+
+This method was used for years and still is today in some services. 
+
+Then dawned Web MVC
+
+--
+
+<img src="/images/what-is-mvc.jpeg" width="425" height="300" style="  border: 10px solid rgba(255,255,255,.5)">
+
+--
+
+## The Future! 
+
+<img src="/images/future.png" width="600" height="400" style="  border: 10px solid rgba(255,255,255,.5)">
+
+--
 
 ## An Introduction to Web MVC
 What is it?
