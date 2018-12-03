@@ -14,7 +14,7 @@ James Millner
 
 --
 
-<img src="/images/james-milner.jpg" width="350" height="200" style="  border: 10px solid rgba(255,255,255,.5)">
+<img src="/images/james-milner.jpg" width="550" height="300" style="  border: 10px solid rgba(255,255,255,.5)">
 
 --
 
