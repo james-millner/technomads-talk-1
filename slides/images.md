@@ -46,6 +46,12 @@ With abit of Go on the side.
 
 ## Flexible and easy to work with
 
+--
+
+## Live Example
+
+<img src="/images/demo-gods.jpg" width="400" height="375" style="  border: 10px solid rgba(255,255,255,.5)">
+
 ---
 
 ## What are Web Applications?
@@ -84,14 +90,6 @@ This was as simple as:
 - Business Logic - Done with typically PHP, ASP, JSP
 
 All manually managed.
-
---
-
-## Plot Twist
-
-This method was used for years and still is today in some services. 
-
-Then dawned Web MVC
 
 --
 
