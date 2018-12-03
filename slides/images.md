@@ -222,4 +222,5 @@ Server: Docker Engine - Community
 - [MVC - By Martin Fowler](https://martinfowler.com/eaaDev/uiArchs.html#ModelViewController)
 - [Spring Framework](https://spring.io/)
 - [Spring Boot Guide](https://spring.io/guides/gs/spring-boot/)
+- [Kotlin](https://kotlinlang.org/docs/reference/)
 - [Follow me on Github @ james-millner](https://github.com/james-millner)
