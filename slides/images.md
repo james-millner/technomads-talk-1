@@ -115,6 +115,14 @@ The MVC pattern is the process of separating business logic, input logic and vie
 - Views are responsible for rendering the model data.
 - Controllers are responsible for processing user requests and building an appropriate model and passes it to the view for rendering.
 
+--
+
+## Spring Framework
+
+Spring Framework is a Web MVC framework for Java.
+
+Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production-ready applications.
+
 ---
 
 ## What you'll need:
