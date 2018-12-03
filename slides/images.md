@@ -1,6 +1,7 @@
 # Introduction to Spring
 ### Building a Web App in 60 seconds, or there abouts.
 #### By James Millner
+#### https://james-millner.github.io/
 
 <!-- .slide: data-transition="zoom" -->
 
@@ -32,7 +33,7 @@ With abit of Go on the side.
 
 ---
 
-## Web Development
+## Web Development 
 
 --
 
@@ -76,10 +77,6 @@ We all love API's!
 
 ## A not so long time ago
 
-You used to have to configure your own web server!! Manually deploying changes and administrating services.
-
-And while this is still true today in some respects, the methods in which this is done have changed drastically.
-
 --
 
 ## Previously
@@ -121,7 +118,25 @@ The MVC pattern is the process of separating business logic, input logic and vie
 
 Spring Framework is a Web MVC framework for Java.
 
-Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production-ready applications.
+Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring.
+
+--
+
+## Docker
+
+A tool for developers that allows us to easily pack, ship, and run any application.
+
+Docker builds apps as a lightweight, portable, self-sufficient containers, which can run virtually anywhere. Similar to Virtual machines but not quite.
+
+--
+
+## What we'll cover
+
+- Setting up a web application project
+- Explore creating a headless web service
+- Create some core HTML for the web app to serve up
+- Adding models and data into the HTML
+- Creating a docker image of the application for preparing to deploy
 
 ---
 
