@@ -72,7 +72,7 @@ We all love API's!
 
 <img src="/images/rest-api.jpeg" width="350" height="200" style="  border: 10px solid rgba(255,255,255,.5)">
 
----
+--
 
 ## A not so long time ago
 
@@ -95,7 +95,7 @@ All manually managed.
 
 <img src="/images/what-is-mvc.jpeg" width="425" height="300" style="  border: 10px solid rgba(255,255,255,.5)">
 
---
+---
 
 ## The Future! 
 
@@ -146,7 +146,6 @@ java version "1.8.0_162"
 Java(TM) SE Runtime Environment (build 1.8.0_162-b12)
 Java HotSpot(TM) 64-Bit Server VM (build 25.162-b12, mixed mode)
 ```
-
 --
 
 ## Validate tools - Maven
@@ -178,6 +177,7 @@ https://start.spring.io/
 
 ## Learn more
 
+- [MVC - By Martin Fowler](https://martinfowler.com/eaaDev/uiArchs.html#ModelViewController)
 - [Spring Framework](https://spring.io/)
-- [Follow me on Github @ james-millner](https://github.com/james-millner)
 - [Spring Boot Guide](https://spring.io/guides/gs/spring-boot/)
+- [Follow me on Github @ james-millner](https://github.com/james-millner)
