@@ -3,11 +3,6 @@
 # Introduction
 A tech talk given by James Millner; 3rd of December, Liverpool Science Park.
 
-#Technology Used:
-- Java 8
-- Spring Boot
-- Maven
-
 ## Tools Require to run Slides:
 
 1. Install GoLang

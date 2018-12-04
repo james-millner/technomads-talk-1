@@ -75,21 +75,6 @@ We all love API's!
 
 --
 
-## A not so long time ago
-
---
-
-## Previously
-
-This was as simple as:
-
-- Views = HTML & CSS
-- Business Logic - Done with typically PHP, ASP, JSP
-
-All manually managed.
-
---
-
 <img src="/images/what-is-mvc.jpeg" width="425" height="300" style="  border: 10px solid rgba(255,255,255,.5)">
 
 ---
@@ -106,7 +91,7 @@ What is it?
 --
 
 ## A Modern Archtectural Pattern
-The MVC pattern is the process of separating business logic, input logic and view logic in the form of Models, Views and Controllers.
+MVC separates business logic, input logic and view logic in the form of Models, Views and Controllers.
 
 - Models are structures used by the application for data.
 - Views are responsible for rendering the model data.
@@ -116,7 +101,7 @@ The MVC pattern is the process of separating business logic, input logic and vie
 
 ## Spring Framework
 
-Spring Framework is a Web MVC framework for Java.
+Spring Framework is Java Framework, with big support for Web MVC.
 
 Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring.
 
